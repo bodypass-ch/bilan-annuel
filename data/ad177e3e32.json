@@ -1,13 +1,13 @@
 {
   "name": "Sylvie",
   "window": {
-    "start": "8 septembre 2025",
-    "end": "8 septembre 2026"
+    "start": "9 septembre 2025",
+    "end": "9 septembre 2026"
   },
   "stats": {
-    "visites_total": 6,
-    "etabs_uniques": 6,
-    "economies_chf": 650
+    "visites_total": 7,
+    "etabs_uniques": 7,
+    "economies_chf": 770
   },
   "visites": [
     {
@@ -63,6 +63,15 @@
       "canton": "Vaud",
       "visit_date_fr": "29 août 2026",
       "saving_chf": 110
+    },
+    {
+      "etab_name": "Le Mirador Resort & Spa",
+      "etab_slug": "le-mirador-resort-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-mirador-resort-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "canton": "Vaud",
+      "visit_date_fr": "8 septembre 2026",
+      "saving_chf": 120
     }
   ]
 }
